@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _01.DefineInterfaceIPerson
+namespace _02.MultipleImplementation
 {
     interface IPerson
     {
